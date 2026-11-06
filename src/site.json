@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "timestamp",
+  "section": "컴퓨터 시각값 읽기·변환",
+  "hero": "컴퓨터 시각값 읽기·변환",
+  "description": "초·밀리초를 추측하지 않습니다. ISO 입력은 YYYY-MM-DDTHH:mm:ss[.sss]Z UTC 형식만 지원합니다. 출력은 UTC입니다.",
+  "pageTitle": "컴퓨터 시각값 읽기·변환 | GuideHollow",
+  "url": "https://timestamp.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
